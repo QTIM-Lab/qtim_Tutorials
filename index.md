@@ -1,13 +1,15 @@
 # Welcome to QTIM Tutorials!
 
-The purpose of these tutorials is to provide a broad overview of techniques for applying machine learning to medical images. Specifically, we focus on building a set of skills to make you an effective machine learning practioner with a good understanding of the underlying theory:
+The purpose of these tutorials is to provide a broad overview of techniques for applying machine learning to medical images. 
 
-- Python programming: variables, types, data structures, control flow, I/O
+We focus on building a set of skills to make you an effective machine learning practitioner with a good understanding of the underlying theory:
+
+- Python programming: variables, data types, data structures, control flow, I/O
 - Project management: data organization, modular code design, version control
 - Data science: tabular data, feature selection, normalization, plotting
-- Image processing: images as arrays, multi-dimensional data, thresholding, morphological operations
+- Image processing: multi-dimensional arrays, thresholding, histograms, morphological operations
 - Machine learning models: decision trees, random forests, support vector machines, logistic regression, multi-layer perceptrons
-- Deep learning: convolutional neural networks, image classification, image segmentation, interpretability of features
+- Deep learning: convolutional neural networks, image classification, image segmentation, feature visualization
 
 ## Requirements
 
@@ -33,9 +35,15 @@ All of our tutorials are written in Python 3 as Jupyter Notebooks. To get starte
 3. Click on the tutorial folder you want to run, and then click the *.ipynb* file in that folder.
 4. To run a chunk of code, click in a box and hit Ctrl + Enter (or the 'Run' button in the top panel).
 
-That's it! If you happen to hit errors, then consider the following:
-* Code blocks must be run in order from top to bottom, as they often rely on each other. Be sure to go back and check all preceding blocks have been run.
-* The `[*]` beside a code block indicates that the code is currently running. You'll need to wait until it finishes before moving on.
+## Troubleshooting
+If you happen to hit some errors, then consider the following:
+* Code blocks often rely on each other, and must be run in order (top to bottom). Be sure to go back and check all preceding blocks have been run.
+* The `[*]` beside a code block indicates that the code is still running. You'll need to wait until it finishes before moving on.
 * Be sure to read the descriptions as you go; some steps involve downloading external data.
-* File paths can be confusing for first-time coders. The easiest solution is to put any download data in the same folder as the tutorial you're running; that way you can reference the data by folder name, rather than */lots/of/nested/directories/...*
+* File paths can be confusing for first-time coders. The easiest solution is to put any downloaded data in the same folder as the tutorial you're running, that way you can reference the data by folder name, rather than */lots/of/nested/directories/...*
 * If all else fails, [Stack Overflow](https://stackoverflow.com/search?q=) is your friend :)
+
+## Contact (@mgh.harvard.edu)
+James Brown: jbrown97
+Andrew Beers: abeers
+
