@@ -44,6 +44,5 @@ If you happen to hit some errors, then consider the following:
 * If all else fails, [Stack Overflow](https://stackoverflow.com/search?q=) is your friend :)
 
 ## Contact (@mgh.harvard.edu)
-James Brown: jbrown97
-Andrew Beers: abeers
+James Brown: jbrown97, Andrew Beers: abeers
 
