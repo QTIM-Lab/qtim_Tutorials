@@ -22,6 +22,7 @@ def autoencoder(image_shape=(240, 240, 1), encoder_only=False, activation='relu'
 #     model.add(MaxPool2D((2,2)))
     
     if encoder_only:
+        model.add(Flatten())
         return model
     
     # Decoder
