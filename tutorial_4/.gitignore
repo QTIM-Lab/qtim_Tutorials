@@ -2,3 +2,5 @@ train/
 test/
 tb_log/
 *.csv
+*.zip
+train_5000/
